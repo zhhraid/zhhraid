@@ -1,43 +1,51 @@
-# Hi there, I'm Zhahra Idhya Astwoti 👋
+<h1 align="center">Hi 👋, I'm Zhahra Idhya Astwoti</h1>
+<h3 align="center">Information Systems Student | Machine Learning Enthusiast</h3>
 
-Welcome to my GitHub profile!  
-I’m an Information Systems student at Universitas Andalas with a strong interest in technology, data, and machine learning. I enjoy exploring how data can be transformed into useful insights and intelligent solutions for real-world problems.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78DA7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Information+Systems+Student+at+Universitas+Andalas;Interested+in+Machine+Learning;Currently+Learning+Python+SQL+and+Data+Analytics" alt="Typing SVG" />
+</p>
 
-## 🌷 About Me
+---
+
+##  About Me
 - 🎓 Information Systems student at Universitas Andalas
 - 🤖 Interested in machine learning, data analytics, and intelligent systems
-- 🌱 Currently learning Python, SQL, data visualization, and machine learning
-- 💡 Passionate about discovering patterns from data and building useful digital solutions
-- ✨ Always eager to learn, grow, and explore new technologies
+- 🌱 Currently learning Python, SQL, and machine learning
+- 💡 Passionate about transforming data into meaningful insights
+- ✨ Always excited to learn and build useful digital solutions
 
-## 🛠️ Skills & Tools
-- **Languages:** Python, SQL, HTML, CSS, JavaScript
-- **Tools:** GitHub, VS Code, Google Colab, Jupyter Notebook, MySQL
-- **Interests:** Machine Learning, Data Analysis, Business Intelligence, Web Development
+##  Skills
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-## 📂 Featured Areas
-Here are some things you’ll find on my GitHub:
-- 🤖 Machine learning projects and experiments
-- 📊 Data analysis and visualization projects
-- 🌐 Web development projects
-- 📝 Academic assignments and case studies
+##  GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zhhraid&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhhraid&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+##  Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhhraid&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ## 💞️ Collaboration
-I’m open to collaborating on:
-- Machine learning and data-related projects
-- Information Systems projects
-- Beginner-friendly technology projects
-- Student research and digital innovation projects
+I’m open to collaborating on machine learning, data-related, and beginner-friendly technology projects.
 
 ## 📫 Connect with Me
 - GitHub: [@zhhraid](https://github.com/zhhraid)
-- LinkedIn: (https://www.linkedin.com/in/zhahra-idhya-astwoti-024317207/)
+- LinkedIn: [your-linkedin-here](#)
+- Instagram: [your-instagram-here](#)
 
-## 😄 Pronouns
-She/Her
-
-## ⚡ Fun Fact
-I’m interested in how data and machine learning can be used to create smarter and more meaningful solutions.
+##  Fun Fact
+I enjoy learning how data and machine learning can create smarter solutions.
 
 ---
-✨ Thanks for visiting my profile!
+Thanks for visiting my profile!
