@@ -2,7 +2,7 @@
 <h3 align="center">Information Systems Student | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78DA7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Information+Systems+Student+at+Universitas+Andalas;Interested+in+Machine+Learning;Currently+Learning+Python+SQL+and+Data+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78DA7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Information+Systems+at+Universitas+Andalas;Interested+in+Machine+Learning;Currently+Learning+Python+SQL+and+Data+Analytics" alt="Typing SVG" />
 </p>
 
 ---
