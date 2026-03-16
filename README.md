@@ -36,13 +36,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhhraid&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-## 💞️ Collaboration
+## Collaboration
 I’m open to collaborating on machine learning, data-related, and beginner-friendly technology projects.
 
 ## 📫 Connect with Me
 - GitHub: [@zhhraid](https://github.com/zhhraid)
-- LinkedIn: [your-linkedin-here](#)
-- Instagram: [your-instagram-here](#)
+- LinkedIn: (https://www.linkedin.com/in/zhahra-idhya-astwoti-024317207/)
 
 ##  Fun Fact
 I enjoy learning how data and machine learning can create smarter solutions.
