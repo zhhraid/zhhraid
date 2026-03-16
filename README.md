@@ -25,17 +25,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-##  GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhhraid&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhhraid&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-##  Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhhraid&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 ## Collaboration
 I’m open to collaborating on machine learning, data-related, and beginner-friendly technology projects.
 
