@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zhahra Idhya Astwoti</h1>
+<h1 align="center">Hi 👋, I'm Zhahra </h1>
 <h3 align="center">Information Systems Student | Machine Learning Enthusiast</h3>
 
 <p align="center">
